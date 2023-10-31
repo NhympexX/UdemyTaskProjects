@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Huawei\\Desktop\\ProjectsUdemy\\BankAPPUdemy\\BankAppUdemy\\wwwroot\\simple.pdf",
+      "PackagePath": "staticwebassets\\simple.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BankAppUdemy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BankAppUdemy.props",
+      "PackagePath": "build\\BankAppUdemy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BankAppUdemy.props",
+      "PackagePath": "buildMultiTargeting\\BankAppUdemy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BankAppUdemy.props",
+      "PackagePath": "buildTransitive\\BankAppUdemy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

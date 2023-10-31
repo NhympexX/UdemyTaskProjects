@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xCGjKlsYGkYfhTtBL4KBduggnzrpJOGa3KCbzW1BMQU=",
+  "Source": "BankAppUdemy",
+  "BasePath": "_content/BankAppUdemy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankAppUdemy\\wwwroot",
+      "Source": "BankAppUdemy",
+      "ContentRoot": "C:\\Users\\Huawei\\Desktop\\ProjectsUdemy\\BankAPPUdemy\\BankAppUdemy\\wwwroot\\",
+      "BasePath": "_content/BankAppUdemy",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Huawei\\Desktop\\ProjectsUdemy\\BankAPPUdemy\\BankAppUdemy\\wwwroot\\simple.pdf",
+      "SourceId": "BankAppUdemy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Huawei\\Desktop\\ProjectsUdemy\\BankAPPUdemy\\BankAppUdemy\\wwwroot\\",
+      "BasePath": "_content/BankAppUdemy",
+      "RelativePath": "simple.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\simple.pdf"
+    }
+  ]
+}
